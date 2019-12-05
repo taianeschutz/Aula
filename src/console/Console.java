@@ -14,8 +14,12 @@ public class Console {
     /**
      * @param args the command line arguments
      */
-    public class Exemplo {
-        
+    public static void main(String[] args) {
+        int contador = 0;
+        while(contador < 5) {
+            System.out.println(contador);
+            contador++;
+        }
     }
     
 }
