@@ -20,6 +20,9 @@ public class Console {
             System.out.println(contador);
             contador++;
         }
+    if(contador == 5) {
+        System.out.println("Contador é igual a 5!");
+    }
     }
     
 }
