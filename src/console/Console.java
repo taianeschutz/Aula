@@ -23,6 +23,8 @@ public class Console {
     if(contador == 5) {
         System.out.println("Contador é igual a 5!");
     }
+    contador = 0;
+    System.out.println(Olá Mundo!);
     }
     
 }
