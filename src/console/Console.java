@@ -24,7 +24,7 @@ public class Console {
         System.out.println("Contador é igual a 5!");
     }
     contador = 0;
-    System.out.println(Olá Mundo!);
+    System.out.println("Olá Mundo!");
     }
     
 }
